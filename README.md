@@ -1,9 +1,9 @@
-# OndraKEYBOARD
+# OndraKEYBOARD (Work in progress state!)
 
  Keyboard replica for the famous czechoslovak home computer [TESLA Ondra SPO186](http://www.ondraspo186.8u.cz/ "Tento web se zabývá československým počítačem Tesla Ondra SPO 186")
  
 
-![](https://github.com/72ka/OndraMELODIK/raw/main/Images/Krabicka.jpg)
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Sn%C3%ADmek%20obrazovky%202024-07-22%20161343.png)
 > OndraKEYBOARD replica of Tesla TX522xxx keyboard
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OndraComputer.jpg/1920px-OndraComputer.jpg)
@@ -41,9 +41,19 @@
 
 ### More photos
 
-![](https://github.com/72ka/OndraMELODIK/blob/main/Images/real1.jpg)
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Sn%C3%ADmek%20obrazovky%202024-07-22%20160958.png)
 
-![](https://github.com/72ka/OndraMELODIK/blob/main/Images/real2.jpg)
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Sn%C3%ADmek%20obrazovky%202024-07-22%20161455.png)
+
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Sn%C3%ADmek%20obrazovky%202024-07-22%20161424.png)
+
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Klavesnice1.jpg)
+
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Klavesnice2.jpg)
+
+![](https://www.oldcomp.cz/download/file.php?id=19486&mode=view)
+
+![](https://www.oldcomp.cz/download/file.php?id=19485&mode=view)
 
 ### License
 
