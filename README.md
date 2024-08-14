@@ -1,4 +1,4 @@
-# OndraKYBOARD
+# OndraKEYBOARD
 
  Keyboard replica for the famous czechoslovak home computer [TESLA Ondra SPO186](http://www.ondraspo186.8u.cz/ "Tento web se zabývá československým počítačem Tesla Ondra SPO 186")
  
