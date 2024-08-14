@@ -21,19 +21,20 @@
 - Designed to buy parts on TME.eu in one banch
 - PCB is usable as replacement of original mebrane to original keyboard with some modification
 
-### Usage
+### Build steps
 
 1. Print all the CAD files using your printer (FDM or SLA), the keycaps number is 40
 2. Activate the ironing on keycaps is recommended for FDM print
 3. The body should be printed on rough printplate to obtain the desired surface like original
-4. Recommended material is ASA or PETG. PLA is an easy option, but not tested for long term use
-5. Solder all microswitches to PCB
-6. Solder the flat cable to the PCB and bend to 90 degrees
-7. On the end of the flat cable solder the pinheader
-8. Insert the keycaps to the body
-9. Insert the PCB
-10. Secure the PCB using the screws
-11. Done, enjoy, share...
+4. Insert the M2.5 thread inserts into the body (2pcs)
+5. Recommended material is ASA or PETG. PLA is an easy option, but not tested for long term use
+6. Solder all microswitches to PCB
+7. Solder the flat cable to the PCB and bend to 90 degrees
+8. On the end of the flat cable solder the pinheader
+9. Insert the keycaps to the body
+10. Insert the PCB
+11. Secure the PCB using the screws
+12. Done, enjoy, share...
 
 > Notice: This project doesn´t contain the keycap prints yet, it is possible to write, print or use some sticky labels
 
