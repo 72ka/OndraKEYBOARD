@@ -38,6 +38,11 @@
 
 > Notice: This project doesn´t contain the keycap prints yet, it is possible to write, print or use some sticky labels
 
+### Recommended parts list (TME.eu)
+
+- 40pc Microswitches - E-SWITCH TL3145AF180QJ (Symbol TME: TL3145AF180QJ)
+- 20pc Screws - BOSSARD B14X4/BN13577 (Smybol TME: B14X4/BN13577)
+- 2pc  Inserts - BOSSARD 1386735 (Symbol TME: B2.5/BN1054)
 
 
 ### More photos
