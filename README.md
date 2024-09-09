@@ -3,8 +3,8 @@
  Keyboard replica for the famous czechoslovak home computer [TESLA Ondra SPO186](http://www.ondraspo186.8u.cz/ "Tento web se zabývá československým počítačem Tesla Ondra SPO 186")
  
 
-![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Sn%C3%ADmek%20obrazovky%202024-07-22%20161343.png)
-> OndraKEYBOARD replica of Tesla TX522xxx keyboard
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/OndraKEYBOARD_potisk_v1_angle.jpg)
+> OndraKEYBOARD replica of Tesla TX522xxx keyboard (real photo of early build from Martin8bity.cz)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OndraComputer.jpg/1920px-OndraComputer.jpg)
 > Czechoslovak home computer Tesla Ondra SPO186 - introduced in 1985
@@ -34,7 +34,8 @@
 9. Insert the keycaps to the body
 10. Insert the PCB
 11. Secure the PCB using the screws
-12. Done, enjoy, share...
+12. Select the technology for keycaps print - professional print, DIY decals, Rub-On Stickers and paint, etc..
+13. Done, enjoy, share...
 
 > Notice: This project doesn´t contain the keycap prints yet, it is possible to write, print or use some sticky labels
 
