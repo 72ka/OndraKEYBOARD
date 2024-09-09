@@ -37,8 +37,6 @@
 12. Select the technology for keycaps print - professional print, DIY decals, Rub-On Stickers and paint, etc..
 13. Done, enjoy, share...
 
-> Notice: This project doesn´t contain the keycap prints yet, it is possible to write, print or use some sticky labels
-
 ### Recommended parts list (TME.eu)
 
 - 40pc Microswitches - E-SWITCH TL3145AF180QJ (Symbol TME: TL3145AF180QJ)
