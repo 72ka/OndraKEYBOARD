@@ -2,13 +2,14 @@
 
  Keyboard replica for the famous czechoslovak home computer [TESLA Ondra SPO186](http://www.ondraspo186.8u.cz/ "Tento web se zabývá československým počítačem Tesla Ondra SPO 186")
  
-![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/OndraKEYBOARD_3D_potisk.jpg)
+![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/OndraKEYBOARD_3d_potisk.jpg)
 > OndraKEYBOARD replica of Tesla TX522xxx keyboard (real photo of complete manual multicolour 3D print on Prusa MINI+ including labels)
 
 ![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/OndraKEYBOARD_back.jpg)
-
+> Back side
+> 
 ![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/OndraKEYBOARD_potisk_v1_angle.jpg)
-> OndraKEYBOARD replica of Tesla TX522xxx keyboard (real photo of early build from Martin8bity.cz, laser printed labels)
+> Real photo of early build from Martin8bity.cz, laser printed labels
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/OndraComputer.jpg/1920px-OndraComputer.jpg)
 > Czechoslovak home computer Tesla Ondra SPO186 - introduced in 1985
@@ -72,9 +73,6 @@
 
 ![](https://github.com/72ka/OndraKEYBOARD/blob/main/Images/Klavesnice2.jpg)
 
-![](https://www.oldcomp.cz/download/file.php?id=19486&mode=view)
-
-![](https://www.oldcomp.cz/download/file.php?id=19485&mode=view)
 
 ### License
 
