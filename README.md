@@ -44,7 +44,7 @@
 
 ### How to print two-color buttons on Prusa MINI+ 3D printer
 
-1. Recommended filament PLA Spectrum, colors Grey, Light Grey, Arctic White, Black
+1. My selected PLA filaments colors "Spectrum Premium PLA 1.75mm Dark Grey", "Spectrum Premium PLA 1.75mm Light Grey", "Spectrum Premium PLA 1.75mm Arctic White", "Prusament PLA Prusa Galaxy Black"
 2. Insert the 0.25mm nozzle to printer
 3. Use GCode or slice it by yourself (check all the changes on the PrusaSlicer project file)
 4. Critical setting is the Z-axis settings, too much low will affect the sharpness and details in labels, too high affects the finished surface or can cause the print failure
